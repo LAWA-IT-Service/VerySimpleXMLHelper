@@ -67,7 +67,10 @@ var
     end
     else
       with Result.ChildNodes.Add(node.name) do
+      begin
+        Text:=node.Text;
         AttributeList.Assign(node.AttributeList);
+      end;
   end;
 
 begin
