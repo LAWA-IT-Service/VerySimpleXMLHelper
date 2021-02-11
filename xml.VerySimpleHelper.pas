@@ -1,9 +1,9 @@
 { VerySimpleXMLHelper v0.0.1 
-  (c) Copyrights 2021  <it@lawa-frische.de>
-  This unit is free and can be used for any needs. The introduction of
-  any changes and the use of those changed library is permitted without
-  limitations. Only requirement:
-  This text must be present without changes in all modifications of library.
+/*  (c) Copyrights 2021  <it@lawa-frische.de>									*/
+/*  This unit is free and can be used for any needs. The introduction of		*/
+/*  any changes and the use of those changed library is permitted without		*/
+/*  limitations. Only requirement:                            					*/
+/*  This text must be present without changes in all modifications of library. 	*/
   * The contents of this file are used with permission, subject to
   * the Mozilla Public License Version 1.1 (the "License"); you may   *
   * not use this file except in compliance with the License. You may  *
